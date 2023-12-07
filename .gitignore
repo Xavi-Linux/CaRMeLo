@@ -1,0 +1,6 @@
+course_material/
+notes/
+env/
+.idea/
+.ipynb_checkpoints/
+data/raw/loan_data_2007_2014.csv
